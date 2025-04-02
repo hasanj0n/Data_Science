@@ -1,2 +1,2 @@
 # Data_Science
-This repository for education(MohirDev)
+This repository for Data Science projects
